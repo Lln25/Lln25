@@ -1,0 +1,4 @@
+-Ola! Me chamo Leonardo, tenho 18 anos e sou desenvolvedor back-end;
+-Desenvolvo em javascript/node.js e PostgreSQL
+-Busco aprofundar ainda mais os conhecimentos na área, estudando atualmente REACT para desenvolvimento front-end
+-LinkedIn: https://www.linkedin.com/in/leonardo-lemos-233263231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
